@@ -1,0 +1,1 @@
+To generate a secure AES key without risk of third-party softwares!
